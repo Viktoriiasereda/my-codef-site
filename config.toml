@@ -17,7 +17,6 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  text_color = "black"
   author = ""
   favicon = ""
   site_logo = ""
@@ -25,7 +24,24 @@ enableRobotsTXT = true
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-navy"
   recent_posts_number = 3
+  custom_css = ["css/custom.css"]
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/company/qm-neurodivergent-society/"
 
 [[params.ananke_socials]]
 name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+url = "https://www.linkedin.com/in/viktoriia-sereda-a580211b4"
+
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://www.linkedin.com/in/viktoriia-sereda-a580211b4"
+
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://www.linkedin.com/in/viktoriia-sereda-a580211b4"
+
+[[params.ananke_socials]]
+name = "WhatsApp"
+url = "https://www.linkedin.com/in/viktoriia-sereda-a580211b4"
