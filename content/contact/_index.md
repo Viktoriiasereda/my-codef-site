@@ -4,14 +4,12 @@ date: 2022-07-13T10:54:40+01:00
 draft: true
 ---
 
-We review all sponsorships and collaborations according to our ethics standards.
+We encourage everyone to reach out either to find out more about the society or to show support. 
+As part of our programme we try to find neurodivergent professionals to speak about their experiences. If you are interested in encouraging future neurodivergent representation and inspiring others, please get in touch. 
 
-For more details please contact: qmns@qmul.ac.uk
+For further information or potential support, please email: lt21173@qmul.ac.uk
 
-Alternatively, email: lt21173@qmul.ac.uk
+Or alternatively: victoriia.sereda@gmail.com
 
-Mailing Address: 57 White Crescent
-				Aylesbury
-				SE23 4DH
 				
 ![symbol](symbol.jpg)
